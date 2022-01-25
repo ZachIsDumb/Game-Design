@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css">
+		<title>Homepage</title>
+	</head>
+	
+	<body>
+		<header>
+			<h1>Projects</h1>
+		</header>
+		
+		<p>Rock Paper Scissors </p>
+		<p><a href="Rock Paper Scissors/game.html" target="blank">Click Here</a></p>
+		<p>Coin Toss Game</p>
+		<p><a href="Coin Toss FINAL/index.html" target="blank">Click Here</a></p>
+		<p>Memory Game</p>
+		<p><a href="Memory Game/index.html" target="blank">Click Here</a></p>
+		<p>Three Card Monte</p>
+		<p><a href="Three Card Monte/Three Card Monte1.4/index.html" target="blank">Click Here</a></p>
+		<p>Snake Game</p>
+		<p><a href="Snake Game/index.html" target="blank">Click Here</a></p>
+		<p>Break Out Game</p>
+		<p><a href="Break Out Game/index.html" target="blank">Click Here</a></p>
+		<p>Dinosaur Game</p>
+		<p><a href="Dinosaur Game/index.html" target="blank">Click Here</a></p>
+		<p>Pong</p>
+		<p><a href="Pong Game/index.html" target="blank">Click Here</a></p>
+		<p>Quiz Game</p>
+		<p><a href="Quiz Game/index.html" target="blank">Click Here</a></p>
+		<p>Flappy Bird</p>
+		<p><a href="Flappy Bird Game/index.html" target="blank">Click Here</a></p>
+		<p>Tetris</p>
+		<p><a href="Tetris Game/index.html" target="blank">Click Here</a></p>
+		
+	</body>
+</html>
